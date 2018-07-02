@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb910f36-33fd-4d11-9636-71c6d852984c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb910f36-33fd-4d11-9636-71c6d852984c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1530201498964</updated>
       <workItem from="1530201519859" duration="333000" />
-      <workItem from="1530202020095" duration="482000" />
+      <workItem from="1530202020095" duration="719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="815000" />
+    <option name="totallyTimeSpent" value="1052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
